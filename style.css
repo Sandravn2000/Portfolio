@@ -4,8 +4,6 @@ body{
     background-size: cover;
 }
 .navbar{
-    font-size:35px;
-    color:rgb(0, 14, 213);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,8 +11,6 @@ body{
 
 .navbar ul {
   list-style-type: none;
-  font-size: 20px;
-  color:antiquewhite;
   margin: 0;
   padding: 0;
   overflow: hidden;
@@ -27,7 +23,8 @@ body{
 
 .navbar li a {
   display: block;
-  color: rgb(24, 144, 225);
+  color: rgb(26, 138, 213);
+  font-size: 20px;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
